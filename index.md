@@ -4,4 +4,4 @@ Need to write something here...
 
 
 # Design Detail
-* [Naming Standards](Naming-Standards)
+* [Naming Standards]({{ site.baseurl }}Naming-Standards)
