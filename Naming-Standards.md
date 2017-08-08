@@ -30,4 +30,6 @@ The types have been defined as follows:
 |DIST|Exchange Distribution Groups|
 |PRNT|Access to restricted printers or manage print queues|
 |CTX|Citrix application|
-|DEPT|Department groups, for grouping all users in a department|
+|TEAM|Team groups, for grouping all users in a team|
+|DEPT|Department groups, for grouping all TEAM groups within a department|
+|DIVI|Division groups, for grouping all DEPT groups within a division|
