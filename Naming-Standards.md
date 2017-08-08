@@ -2,7 +2,10 @@
 title: Naming Standards - Active Directory Design
 ---
 
-# Functional Group
+# Naming Standards
+Naming standards are a important aspect to the design, ensuring these are met help with remedial tasks or auditing; as the reasons for their use are clearly defined.
+
+## Functional Group
 A functional group is best described as a non-administrative resource group. This group would see access being granted to resources across the infrastructure.
 
 The following naming conventions should be used:
