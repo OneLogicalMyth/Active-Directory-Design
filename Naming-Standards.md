@@ -1,6 +1,6 @@
---
+---
 title: Naming Standards - Active Directory Design
---
+---
 
 # Functional Group
 A functional group is best described as a non-administrative resource group. This group would see access being granted to resources across the infrastructure.
