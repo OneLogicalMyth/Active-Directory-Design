@@ -2,6 +2,8 @@
 title: Naming Standards - Active Directory Design
 ---
 
+[Return to Introduction]({{ site.baseurl }})
+
 # Naming Standards
 Naming standards are a important aspect to the design, ensuring these are met help with remedial tasks or auditing; as the reasons for their use are clearly defined.
 
