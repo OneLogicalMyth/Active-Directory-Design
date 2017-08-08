@@ -1,5 +1,11 @@
 --
-title: Introduction - Active Directory Design
+title: Active Directory Design
 --
 
-# Home
+# Introduction
+
+Need to write something here...
+
+
+# Design Detail
+* [Naming Standards](/Naming-Standards)
