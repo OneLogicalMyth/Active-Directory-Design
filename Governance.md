@@ -2,6 +2,8 @@
 title: Governance - Active Directory Design
 ---
 
+[Return to Introduction]({{ site.baseurl }})
+
 # Governance
 The below rules define how each type of Active Directory object should be used, anything that does not match is deemed as non-compliant.
 The structure is monitored using an automated script built using PowerShell, this check the below defined governing rules and send administrative alerts for any identified non-compliant object.
