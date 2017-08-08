@@ -11,7 +11,7 @@ Naming standards are a important aspect to the design, ensuring these are met he
 A functional group is best described as a non-administrative resource group. This group would see access being granted to resources across the infrastructure.
 
 The following naming conventions should be used:
-* {TYPE}-{HOST|CLUSTER}-{RESOURCE_NAME}-{ACCESS}
+* {TYPE}-{HOST\|CLUSTER}-{RESOURCE_NAME}-{ACCESS}
 
 To give the software testing team access to the software share on FILESERVER01 with Read/Write access the following group name would be used:
 * FILE-FILESERVER01-Software-RW
