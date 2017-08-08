@@ -1,11 +1,7 @@
---
-title: Active Directory Design
---
-
 # Introduction
 
 Need to write something here...
 
 
 # Design Detail
-* [Naming Standards](/Naming-Standards)
+* [Naming Standards](/Active-Directory-Design/Naming-Standards)
